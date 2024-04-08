@@ -1,0 +1,103 @@
+[
+    {
+      "question": "What does Node.js use to manage packages and dependencies?",
+      "options": ["NPM", "Yarn", "Bower", "Pip"],
+      "answer": "NPM"
+    },
+    {
+      "question": "Which of the following is NOT a core module in Node.js?",
+      "options": ["fs", "http", "express", "path"],
+      "answer": "express"
+    },
+    {
+      "question": "Which function is used to execute a function after a specified number of milliseconds in Node.js?",
+      "options": ["setTimeout", "setInterval", "setImmediate", "execTimeout"],
+      "answer": "setTimeout"
+    },
+    {
+      "question": "What is the event-driven, non-blocking I/O model used in Node.js?",
+      "options": ["Synchronous", "Asynchronous", "Multithreading", "Blocking"],
+      "answer": "Asynchronous"
+    },
+    {
+      "question": "Which module is commonly used to create web servers in Node.js?",
+      "options": ["http", "fs", "path", "url"],
+      "answer": "http"
+    },
+    {
+      "question": "What is the purpose of the 'require' function in Node.js?",
+      "options": ["To include external modules", "To define a new function", "To create a new variable", "To remove a module"],
+      "answer": "To include external modules"
+    },
+    {
+      "question": "What does the 'fs' module in Node.js stand for?",
+      "options": ["File System", "Function Set", "File Server", "Frontend Server"],
+      "answer": "File System"
+    },
+    {
+      "question": "Which of the following is NOT a valid way to handle errors in Node.js?",
+      "options": ["try...catch", "callbacks", "promises", "switch...case"],
+      "answer": "switch...case"
+    },
+    {
+      "question": "What is the purpose of the 'process' object in Node.js?",
+      "options": ["To interact with the file system", "To manage child processes", "To provide information about the current process", "To handle network requests"],
+      "answer": "To provide information about the current process"
+    },
+    {
+      "question": "Which of the following is a valid EventEmitter method in Node.js?",
+      "options": ["on", "listen", "connect", "get"],
+      "answer": "on"
+    },
+    {
+      "question": "What is the default scope of variables declared in Node.js?",
+      "options": ["Global", "Local", "Function", "Block"],
+      "answer": "Local"
+    },
+    {
+      "question": "Which of the following is NOT true about streams in Node.js?",
+      "options": ["They can be readable", "They can be writable", "They are only used for file I/O", "They can be duplex"],
+      "answer": "They are only used for file I/O"
+    },
+    {
+      "question": "What is the purpose of the 'crypto' module in Node.js?",
+      "options": ["To handle cryptographic functions", "To manage databases", "To create web servers", "To handle HTTP requests"],
+      "answer": "To handle cryptographic functions"
+    },
+    {
+      "question": "Which method is used to start an HTTP server in Node.js?",
+      "options": ["http.createServer", "http.listen", "http.startServer", "http.run"],
+      "answer": "http.createServer"
+    },
+    {
+      "question": "What does 'npm init' command do in Node.js?",
+      "options": ["Initializes a new Node.js project", "Installs all dependencies", "Initializes a new package.json file", "Updates npm to the latest version"],
+      "answer": "Initializes a new package.json file"
+    },
+    {
+      "question": "Which of the following is NOT a valid HTTP method in Node.js?",
+      "options": ["GET", "POST", "PUT", "DELETE"],
+      "answer": "PUT"
+    },
+    {
+      "question": "What is the purpose of the 'cluster' module in Node.js?",
+      "options": ["To create child processes", "To handle network requests", "To manage clusters of servers", "To generate random numbers"],
+      "answer": "To manage clusters of servers"
+    },
+    {
+      "question": "Which method is used to read data from a readable stream in Node.js?",
+      "options": ["stream.read", "stream.on('readable')", "stream.pipe", "stream.write"],
+      "answer": "stream.read"
+    },
+    {
+      "question": "What is the role of the 'child_process' module in Node.js?",
+      "options": ["To create child processes", "To manage network requests", "To handle file I/O", "To manipulate strings"],
+      "answer": "To create child processes"
+    },
+    {
+      "question": "Which of the following is NOT a valid EventEmitter event in Node.js?",
+      "options": ["'error'", "'data'", "'end'", "'complete'"],
+      "answer": "'complete'"
+    }
+  ]
+  
