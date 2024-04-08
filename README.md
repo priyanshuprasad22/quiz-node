@@ -16,7 +16,7 @@ This is a simple quiz app built using Node.js, Express, and Vanilla JavaScript.
 
 1. Clone the repository:
    ```bash
-    git clone https://github.com/priyanshuprasad22/Event-Management-System-API.git
+    git clone https://github.com/priyanshuprasad22/quiz-node.git
 2.  Navigate to the project directory:
     ```bash
     cd quiz-app
